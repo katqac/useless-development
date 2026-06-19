@@ -1,7 +1,7 @@
 body {
-    background-color: #111;
+    background-color: #010014;
     color: white;
-    font-family: Arial;
+    font-family: "IBM Plex Mono", monospace; /*originally was Arial;*/
     text-align: center;
 }
 
