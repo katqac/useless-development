@@ -39,3 +39,13 @@ p {
     margin-bottom: 20px;
     box-shadow: 0 0 30px rgba(30, 80, 180, 0.08);
 }
+
+.star {
+    pointer-events: none;
+    position: fixed;
+    width: 2px;
+    height: 2px;
+    background: rgb(220,220,235);
+    border-radius: 50%;
+    z-index: -1;
+}
